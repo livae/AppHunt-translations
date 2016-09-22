@@ -1,17 +1,20 @@
 <?xml version="1.0"?>
 <resources>
+	<string name="action_bookmark">Marcador</string>
 	<string name="action_delete">Borrar</string>
 	<string name="action_edit">Editar</string>
 	<string name="action_email">Email</string>
 	<string name="action_favourite">Favorito</string>
 	<string name="action_flag">Reportar</string>
 	<string name="action_last_week_top">Top última semana</string>
+	<string name="action_mute">Silenciar</string>
 	<string name="action_notification">Notificación</string>
 	<string name="action_notifications">Notificaciones</string>
 	<string name="action_notifications_read">Marcar como leidas</string>
 	<string name="action_order">Orden</string>
 	<string name="action_order_date">Recientes</string>
 	<string name="action_order_date_oldest">Antiguos</string>
+	<string name="action_order_trending">Popular</string>
 	<string name="action_order_votes">Populares</string>
 	<string name="action_remove_front_page">Eliminar de la portada</string>
 	<string name="action_search">Buscar</string>
@@ -23,13 +26,16 @@
 	<string name="activity_last_week_top">Top última semana</string>
 	<string name="activity_settings">Configuración</string>
 	<string name="activity_share_app">Compartir app</string>
+	<string name="activity_share_app_apphunt">AppHunt Apps</string>
+	<string name="activity_share_talk_apphunt">AppHunt Conversaciones</string>
+	<string name="activity_start_talk">Comentar una conversación</string>
 	<string name="anonymous">Anónimo</string>
 	<string name="app_cannot_be_installed_yet">App no disponible para instalar aún.</string>
 	<string name="app_flagged">Applicacion notificada</string>
-	<string name="app_removed_front_page">Aplicación eliminada de la portada</string>
 	<string name="apps">Apps</string>
 	<string name="apps_frontpage">Apps</string>
 	<string name="apps_top">Top Apps</string>
+	<string name="be_the_first_one_to_write_a_comment">Se el primero en escribir un comentario.</string>
 	<string name="beta_version">Versión Beta</string>
 	<string name="bookmark_added">Añadido a los marcadores.</string>
 	<string name="bookmark_removed">Eliminado de los marcadores.</string>
@@ -49,24 +55,34 @@
 		<item quantity="other">%d votos</item>
 	</plurals>
 	<string name="cancel">Cancelar</string>
+	<string name="category">Categoría</string>
 	<string name="category_all">Tocas las categorías</string>
 	<string name="category_apk">URL de APK</string>
+	<string name="category_art_design">Arte &amp; Diseño</string>
+	<string name="category_auto_vehicles">Auto &amp; Vehículos</string>
+	<string name="category_beauty">Belleza</string>
 	<string name="category_books">Libros</string>
 	<string name="category_business">Negocios</string>
 	<string name="category_comic">Comics</string>
 	<string name="category_communication">Comunicación</string>
+	<string name="category_dating">Citas</string>
 	<string name="category_education">Educación</string>
 	<string name="category_entertainment">Entretenimiento</string>
+	<string name="category_events">Eventos</string>
 	<string name="category_finance">Finanzas</string>
+	<string name="category_food_drink">Comida &amp; Bebida</string>
 	<string name="category_game">Juegos</string>
 	<string name="category_health_fitness">Salud y Bienestar</string>
+	<string name="category_house_home">Hogar</string>
 	<string name="category_libraries_demo">Bibliotecas y Demo</string>
 	<string name="category_lifestyle">Estilo de vida</string>
+	<string name="category_maps_navigation">Mapas &amp; Navegación</string>
 	<string name="category_media_video">Multimedia y Vídeo</string>
 	<string name="category_medical">Medicina</string>
 	<string name="category_music_audio">Música y Audio</string>
 	<string name="category_news_magazines">Noticias y Revistas</string>
 	<string name="category_only_apps">Applicaciones</string>
+	<string name="category_parenting">Paternidad</string>
 	<string name="category_personalization">Personalización</string>
 	<string name="category_photography">Fotografía</string>
 	<string name="category_productivity">Productividad</string>
@@ -88,11 +104,14 @@
 	<string name="category_tools">Herramientas</string>
 	<string name="category_transportation">Transporte</string>
 	<string name="category_travel_local">Viajes y Guías</string>
+	<string name="category_video_players">Reproductores</string>
 	<string name="category_wallpaper">Fondos de pantalla</string>
 	<string name="category_weather">Tiempo</string>
 	<string name="category_widget">Widgets</string>
+	<string name="changelog">Registro de cambios</string>
 	<string name="changelog_full_title">Registro de cambios</string>
 	<string name="changelog_ok_button">OK</string>
+	<string name="changelog_review_app">Escribe una reseña</string>
 	<string name="changelog_title">Nuevo</string>
 	<string name="changelog_version_format">Versión %1$s</string>
 	<string name="chose_app_help">Puedes seleccionar una de tus apps para compartirla o <b><a href="http://www.livae.com">usar la url de un APK</a></b>.</string>
@@ -100,6 +119,7 @@
 	<string name="comments">Comentarios</string>
 	<string name="comments_closed">Comentarios cerrados</string>
 	<string name="content_description_post_comment">Envía el comentario</string>
+	<string name="conversation_muted">Conversación silenciada</string>
 	<string name="crop_image_with">Recorta la imagen con…</string>
 	<string name="deleted_comment">[Comentario eliminado]</string>
 	<string name="dialog_hunt_score_description">La puntuación se calcula en función de la calidad del contenido que compartes en los últimos 100 días:</string>
@@ -108,17 +128,21 @@
 	<string name="dont_show_again">No volver a mostrar</string>
 	<string name="edit">Editar</string>
 	<string name="edit_app_title">Editar la app</string>
+	<string name="edit_talk_title">Editar la conversación</string>
 	<string name="edited">(Editado)</string>
 	<string name="empty_choose_app">No hay aplicaciones actualizadas en los últimos %d días que puedan ser compartidas.</string>
 	<string name="empty_text">Ops… no hay nada aquí.</string>
+	<string name="empty_text_local_apps">Ops… Parece que alguien ya ha compartido todas tus apps.</string>
 	<string name="empty_text_top_apps">Ops… no tienes ninguna app favorita aún.\n\n Busca tus apps favoritas y pulsa en la opción favorita del menu para poder añadirlas aquí.</string>
 	<string name="error">Error</string>
 	<string name="error_api">Error en la API: %s</string>
 	<string name="error_apk_not_url">Url no valida</string>
 	<string name="error_apk_url_dont_exists">Url erronea o el servidor devolvió un error.</string>
+	<string name="error_apk_url_is_fileshare">Webs para compartir archivos como %s no funcionan.</string>
 	<string name="error_apk_url_not_apk">La Url no es un fichero APK.</string>
 	<string name="error_cannot_register_new_device">No se pudo registrar el dispositivo.</string>
 	<string name="error_contains_best">No todas las apps son las mejores. Cambialo.</string>
+	<string name="error_link_malformed">No es un dirección válida</string>
 	<string name="error_loading_elements">Error cargando los elementos</string>
 	<string name="error_min_chars">debe tener más de %d caracteres</string>
 	<string name="error_network_error">Error conectandose, comprueba tu conexión.</string>
@@ -139,6 +163,8 @@
 	<string name="error_share_app_suggested">Esta app esta pendiente de ser aprobada por los administradores. Puede demorar unos días hasta que sea aprobada/rechadaza.</string>
 	<string name="error_share_app_too_many_apps_shared">Demasiadas apps compartidas últimamente. Vuelve a intentarlo en %s</string>
 	<string name="error_share_app_too_many_popular_apps_shared">Has compartido demasiadas app populares. Comparte apps menos populares.</string>
+	<string name="error_share_talk_api_forbidden">Prohibido, no puedes comenzar conversaciones ahora.</string>
+	<string name="error_start_talk_too_many_talks_stated">Demasiadas conversaciones comenzadas recientemente. Inténtalo de nuevo en %s</string>
 	<string name="error_tags_length">Deben tener entre %1$d y %2$d caracteres</string>
 	<string name="error_tags_repetead">No repitas etiquetas</string>
 	<string name="error_tags_too_many">Solo se permiten %d etiquetas</string>
@@ -150,6 +176,7 @@
 	<string name="feedback_email_subject">AppHunt Feedback</string>
 	<string name="flag_app">Notificar sobre la app</string>
 	<string name="flag_reason">¿Cuál es la razón de esta notificación?</string>
+	<string name="flag_talk">Notificar sobre conversación</string>
 	<string name="flag_user">Notificar sobre usuario</string>
 	<string name="follow">Seguir</string>
 	<string name="followed">Siguiendo</string>
@@ -163,6 +190,7 @@
 	<string name="information_makers">Este icono significa que el usuario es el desarrollador de la app.</string>
 	<string name="information_original_poster">Este usuario es el que compartió la app.</string>
 	<string name="information_top_hunters">Este usuario es un Top Hunter, un miembro destacado de la comunidad.</string>
+	<string name="initial_screen">Pantalla inicial:</string>
 	<string name="installs">%s instalaciones</string>
 	<string name="installs_shared_apps">%s instalaciones de apps compartidas</string>
 	<string name="legend_installs">Instalaciones</string>
@@ -174,7 +202,9 @@
 	<string name="message_cache_clear">Cache eliminada</string>
 	<string name="message_tutorial_restored">Tutoriales restaurados</string>
 	<string name="my_top_apps">Mis Top Apps</string>
+	<string name="new_version">Nueva versión</string>
 	<string name="new_version_avaiable">Nueva versión disponible</string>
+	<string name="next">Siguiente</string>
 	<string name="no_install_yet">Sin instalaciones aún.</string>
 	<string name="no_more_top_past_app">¡¡Ops!! Alcanzastes el mes que lanzamos AppHunt para Android.</string>
 	<string name="no_more_top_past_talk">¡¡Ops!! Alcanzastes el mes que lanzamos Conversaciones para AppHunt.</string>
@@ -196,8 +226,10 @@
 	<string name="notification_status_user_shared_app">%2$s ha compartido %1$s</string>
 	<string name="notification_status_user_shared_talk">%2$s ha compartido %1$s</string>
 	<string name="notification_status_user_update_top_apps">%s actualizó sus apps favoritas</string>
+	<string name="notification_talk_started_by">comenzada por <b>%s</b></string>
 	<string name="notification_top_month_apps">Top apps de %s</string>
 	<string name="notification_top_week_apps">Top apps de la última semana</string>
+	<string name="notification_top_week_talks">Top conversaciones de la última semana</string>
 	<string name="notification_user_updated_top_apps">Actualizada la lista de apps favoritas.</string>
 	<string name="notifications_marked_as_read">Notificaciones marcadas como leidas.</string>
 	<string name="notifications_select_top_month_time">Hora</string>
@@ -207,13 +239,16 @@
 	<string formatted="false" name="notifications_top_week_date_text">Todos los %s a las %d:%02d</string>
 	<string name="ok">OK</string>
 	<string name="only_10_apps_will_be_saved">Sólo las 10 primeras apps se guardarán.</string>
+	<string name="open_in_browser">Abrir en navegador</string>
 	<string name="payment_in_app_purchases">Compras en la app</string>
 	<string name="payment_paid_app">App de pago</string>
 	<string name="permission_request_title">Se necesita el permiso.</string>
 	<string name="permission_storage">We need the STORAGE permission in order to save the images in the media library.</string>
 	<string name="post_app_progress">Compartiendo app…</string>
 	<string name="post_comment_hint">Escribe un comentario…</string>
+	<string name="post_talk_progress">Comenzando conversación…</string>
 	<string name="posted">Compartida: %s</string>
+	<string name="previous">Anterior</string>
 	<string name="provider_installs">Instalaciones de apps</string>
 	<string name="purchase_completed">Compra completada</string>
 	<string name="purchases">Purchase</string>
@@ -223,6 +258,8 @@
 	<string name="reply">Responder</string>
 	<string name="save">Guardar</string>
 	<string name="saving_user_info">Actualizando información del usuario…</string>
+	<string name="search_hint_apps">Buscar en apps</string>
+	<string name="search_hint_talks">Buscar en conversaciones</string>
 	<string name="send_feedback">Enviar comentarios</string>
 	<string name="settings">Configuración</string>
 	<string name="settings_data_cache">Usados %3.2f Megabytes</string>
@@ -240,7 +277,9 @@
 	<string name="settings_notifications_top_apps_week_date">Momento para notificar sobre las mejores apps de la semana</string>
 	<string name="settings_notifications_top_month_apps">Mostrar mejores apps del mes</string>
 	<string name="settings_notifications_top_month_date">Momento para notificar sobre las mejores apps del mes</string>
+	<string name="settings_notifications_top_talks_week_date">Momento para notificar sobre las mejores conversaciones de la semana</string>
 	<string name="settings_notifications_top_week_apps">Mostrar mejores apps de la semana</string>
+	<string name="settings_notifications_top_week_talks">Mostrar mejores conversaciones de la semana</string>
 	<string name="settings_payment_ads_description_limited_until">Expira: %s</string>
 	<string name="settings_payment_ads_switch">Mostrar anuncios</string>
 	<string name="settings_payments_title">Miscelanea</string>
@@ -262,10 +301,12 @@
 	<string name="suggested_apk_title">APK compartido</string>
 	<string name="suggested_app_message">Revisaremos la app antes de publicarla ya que no cumple con los requisitos para publicarla directamente. Es muy poco probable que publiquemos una app meidante este procedimiento a menos que realmente merezca la pena, como nuevos lanzamientos o actualizaciones importantes.</string>
 	<string name="suggested_app_title">Compartir App</string>
+	<string name="talk_flagged">Conversación notificada</string>
 	<string name="talks">Conversaciones</string>
 	<string name="talks_frontpage">Conversaciones</string>
 	<string name="talks_top">Top Conversaciones</string>
 	<string name="terms_conditions">Términos y Condiciones (Inglés)</string>
+	<string name="text">Texto</string>
 	<string name="time_few_minutes_ago">%d min</string>
 	<string name="time_now">ahora</string>
 	<string name="time_yesterday">ayer</string>
@@ -273,6 +314,7 @@
 	<string name="top_hunters_help">En los últimos 100 días estos son los usuarios que han compartido el mejor contenido. Os lo agradecemos.</string>
 	<string name="tutorial_avoid_spam">Ops… Parece que acabas de llegar a AppHunt, tu cuenta tiene que tener al menos uan semana de antiguedad antes de poder compartir apps. \n\nTenemos estra restricción para evitar las cuentas que hacen spam y porder garantizar la calidad del contenido. \n\nGracias por tu paciencia.</string>
 	<string name="uninstalls">%s desinstalaciones</string>
+	<string name="update_talk_title">Nuevo título: %s</string>
 	<string name="user_apps_shared">Apps Compartidas</string>
 	<string name="user_apps_voted">Apps Votadas</string>
 	<string name="user_authentication_required">Tienes que ser un usuario registrado para poder realizar esta acción.</string>
@@ -284,8 +326,11 @@
 		<item quantity="one">1 Compartida</item>
 		<item quantity="other">%d Compartidas</item>
 	</plurals>
+	<string name="user_button_voted_apps">%d votos en apps</string>
+	<string name="user_button_voted_talks">%d votos en conversaciones</string>
 	<string name="user_comments_upvotes">%s votos en comentarios</string>
 	<string name="user_data_updated">Información del usuario actualizada</string>
+	<string name="user_flagged">Usuario notificado</string>
 	<plurals name="user_followers">
 		<item quantity="one">1 Seguidor</item>
 		<item quantity="other">%d Seguidores</item>
@@ -295,6 +340,7 @@
 		<item quantity="other">%d Siguiendo</item>
 	</plurals>
 	<string name="user_shared_apps_upvotes">%s votos en apps compartidas</string>
+	<string name="user_shared_talks_upvotes">%d votos en conversaciones comenzadas</string>
 	<string name="user_talks_shared">Conversaciones Empezadas</string>
 	<string name="user_talks_voted">Conversaciones Votadas</string>
 	<string name="voters">Votantes</string>

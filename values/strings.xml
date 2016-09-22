@@ -150,6 +150,7 @@
 	<string name="error_apk_url_not_apk">The url is not a valid APK file.</string>
 	<string name="error_cannot_register_new_device">Couldn\'t sign in with the device.</string>
 	<string name="error_contains_best">Not every app is the best one, change it.</string>
+	<string name="error_link_malformed">It is not a valid link</string>
 	<string name="error_loading_elements">Error loading the elements</string>
 	<string name="error_min_chars">must be longer than %d chars</string>
 	<string name="error_network_error">Error connecting, check your network.</string>
@@ -170,6 +171,8 @@
 	<string name="error_share_app_suggested">This app is waiting for approval by the admins. It can take some days before it is approved/rejected.</string>
 	<string name="error_share_app_too_many_apps_shared">Too many apps shared recently. Try again in %s</string>
 	<string name="error_share_app_too_many_popular_apps_shared">You have shared too many popular apps. Share less popular apps.</string>
+	<string name="error_share_talk_api_forbidden">Forbidden, you cannot start this talk now.</string>
+	<string name="error_start_talk_too_many_talks_stated">Too many talks started recently. Try again in %s</string>
 	<string name="error_tags_length">Length must be between %1$d and %2$d chars</string>
 	<string name="error_tags_repetead">Don\'t repeat tags</string>
 	<string name="error_tags_too_many">Only %d tags allowed</string>
@@ -239,8 +242,8 @@
 	<string name="notification_commented_by_zero"><b>%s</b> commented.</string>
 	<string name="notification_info_maker">You are the maker of the app.</string>
 	<string name="notification_info_top_hunter">You are in the list of top hunters!</string>
-	<string name="notification_status_comments_app">New comments in %s </string>
-	<string name="notification_status_comments_talk">New comments in %s </string>
+	<string name="notification_status_comments_app">New comments in %s</string>
+	<string name="notification_status_comments_talk">New comments in %s</string>
 	<string name="notification_status_events">%d events</string>
 	<string name="notification_status_info_maker">You are the maker of %s</string>
 	<string name="notification_status_info_top_hunter">You are a top hunter!</string>
@@ -248,6 +251,7 @@
 	<string name="notification_status_user_shared_app">%2$s shared %1$s</string>
 	<string name="notification_status_user_shared_talk">%2$s shared %1$s</string>
 	<string name="notification_status_user_update_top_apps">%s updated the favourite apps</string>
+	<string name="notification_talk_started_by">started by<b>%s</b></string>
 	<string name="notification_top_month_apps">Top apps of %s</string>
 	<string name="notification_top_week_apps">Top apps of the last week</string>
 	<string name="notification_top_week_talks">Top talks of the last week</string>
@@ -279,8 +283,8 @@
 	<string name="reply">Reply</string>
 	<string name="save">Save</string>
 	<string name="saving_user_info">Updating user information…</string>
-	<string name="search_hint_apps">Search apps</string>
-	<string name="search_hint_talks">Search talks</string>
+	<string name="search_hint_apps">Search in apps</string>
+	<string name="search_hint_talks">Search in talks</string>
 	<string name="see_whats_new">See what\'s new</string>
 	<string name="send_feedback">Send feedback</string>
 	<string name="settings">Settings</string>
@@ -342,6 +346,7 @@
 	<string name="top_hunters_help">In the last 100 days these are the users who have shared the best content. We all thank you.</string>
 	<string name="tutorial_avoid_spam">Ops… It seems your are new in AppHunt. Your account needs to be at least one week old before you can sharing apps or talks. \n\nWe do this to prevent spam accounts from share spam apps and to keep the content quality high. \n\nThanks for your patient!</string>
 	<string name="uninstalls">%s uninstalls</string>
+	<string name="update_talk_title">New title: %s</string>
 	<string name="user_apps_shared">Apps Shared</string>
 	<string name="user_apps_voted">Apps Voted</string>
 	<string name="user_authentication_required">You have to be an authenticated user to perform this action.</string>
@@ -374,7 +379,7 @@
 		<item quantity="other">%d Following</item>
 	</plurals>
 	<string name="user_shared_apps_upvotes">%s upvotes in shared apps</string>
-	<string name="user_shared_talks_upvotes">%s upvotes in shared talks</string>
+	<string name="user_shared_talks_upvotes">%s upvotes in started talks</string>
 	<string name="user_talks_shared">Talks Started</string>
 	<string name="user_talks_voted">Talks Voted</string>
 	<string name="voters">Voters</string>

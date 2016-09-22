@@ -359,4 +359,12 @@
 	<string name="voters">Oylayanlar</string>
 	<string name="warning">Uyarı</string>
 	<string name="warning_apk_url">APK indirmek ve yüklemek cihazınıza zarar verebilir. Bu kendi sorumluluğunuz altındadır.</string>
+
+	<!-- strings to translate -->
+
+	<string name="error_link_malformed"></string>
+	<string name="error_share_talk_api_forbidden"></string>
+	<string name="error_start_talk_too_many_talks_stated"></string>
+	<string name="notification_talk_started_by"></string>
+	<string name="update_talk_title"></string>
 </resources>
