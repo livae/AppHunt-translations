@@ -215,7 +215,7 @@
 	<string name="no_more_top_past_app">Ops!! Android için AppHunt\'u yayınladığımız aya ulaştınız.</string>
 	<string name="no_more_top_past_talk">Ops!! Sohbetler özelliğini AppHunt için duyurduğumuz aya ulaştınız.</string>
 	<string name="not_found">İçerik bulunamadı veya silinmiş olabilir.</string>
-	<string name="notification_app_shared_by">paylaşan<b>%s</b></string>
+	<string name="notification_app_shared_by">paylaşan <b>%s</b></string>
 	<plurals name="notification_commented_by">
 		<item quantity="one"><b>%s</b> ve <b>diğerleri</b> yorum yaptı.</item>
 		<item quantity="other"> <b>%s</b> ve <b>%d kişi daha</b> yorum yaptı.</item>
@@ -362,9 +362,9 @@
 
 	<!-- strings to translate -->
 
-	<string name="error_link_malformed"></string>
-	<string name="error_share_talk_api_forbidden"></string>
-	<string name="error_start_talk_too_many_talks_stated"></string>
-	<string name="notification_talk_started_by"></string>
-	<string name="update_talk_title"></string>
+	<string name="error_link_malformed">Bağlantı geçerli değil</string>
+	<string name="error_share_talk_api_forbidden">Şu anda bir sohbet başlatamazsınız.</string>
+	<string name="error_start_talk_too_many_talks_stated">Yakın zamanda çok fazla sohbet başlattınız. Lütfen %s içinde tekrar deneyin.</string>
+	<string name="notification_talk_started_by">başlatan <b>%s</b></string>
+	<string name="update_talk_title">Yeni başlık: %s</string>
 </resources>
