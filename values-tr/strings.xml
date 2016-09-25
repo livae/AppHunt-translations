@@ -132,7 +132,7 @@
 	<string name="edited">(Düzenlendi)</string>
 	<string name="empty_choose_app">Son %d gün içinde paylaşılabilir, güncellenmiş uygulama yok.</string>
 	<string name="empty_text">Ops… burada bir şey yok.</string>
-	<string name="empty_text_local_apps">Ops... Görünüşe göre bir başkası bu uygulamayı daha önce paylaşmış.</string>
+	<string name="empty_text_local_apps">Ops… Görünüşe göre bir başkası bu uygulamayı daha önce paylaşmış.</string>
 	<string name="empty_text_top_apps">Ops… henüz herhangi bir favori uygulamanız bulunmuyor.\n\nFavori uygulamalarınızı bulduktan sonra onları buraya eklemek için menüden favori butonuna dokunun.</string>
 	<string name="error">Hata</string>
 	<string name="error_api">API hatası: %s</string>
@@ -142,6 +142,7 @@
 	<string name="error_apk_url_not_apk">URL, geçerli bir APK dosyası değil.</string>
 	<string name="error_cannot_register_new_device">Cihaz ile oturum açılamadı.</string>
 	<string name="error_contains_best">Her uygulama en iyi olamaz, açıklamayı değiştirin.</string>
+	<string name="error_link_malformed">Bağlantı geçerli değil</string>
 	<string name="error_loading_elements">İçerikler bir hata nedeniyle yüklenemedi.</string>
 	<string name="error_min_chars">%d karakterden daha uzun olmalıdır</string>
 	<string name="error_network_error">Bağlandı başarısız, İnternet bağlantınızı kontrol edin.</string>
@@ -162,6 +163,8 @@
 	<string name="error_share_app_suggested">Uygulama yönetici onayı bekliyor. Onaylanması veya reddedilmesi birkaç gün sürebilir.</string>
 	<string name="error_share_app_too_many_apps_shared">Son zamanlarda çok fazla uygulama paylaştınız. Lütfen %s sonra tekrar deneyiniz.</string>
 	<string name="error_share_app_too_many_popular_apps_shared">Çok fazla popüler uygulama paylaştınız. Lütfen daha az paylaşınız.</string>
+	<string name="error_share_talk_api_forbidden">Şu anda bir sohbet başlatamazsınız.</string>
+	<string name="error_start_talk_too_many_talks_stated">Yakın zamanda çok fazla sohbet başlattınız. Lütfen %s içinde tekrar deneyin.</string>
 	<string name="error_tags_length">Uzunluk %1$d ile %2$d karakter arasında olmalı</string>
 	<string name="error_tags_repetead">Aynı etiket olamaz</string>
 	<string name="error_tags_too_many">En fazla %d etiket olabilir</string>
@@ -232,6 +235,7 @@
 	<string name="notification_status_user_shared_app">%1$s, %2$s tarafından paylaşıldı.</string>
 	<string name="notification_status_user_shared_talk">%1$s, %2$s tarafından paylaşıldı.</string>
 	<string name="notification_status_user_update_top_apps">%s favori uygulamalarını güncelledi.</string>
+	<string name="notification_talk_started_by">başlatan <b>%s</b></string>
 	<string name="notification_top_month_apps">%s ayının en iyi uygulamaları</string>
 	<string name="notification_top_week_apps">Geçen haftanın en iyi uygulamaları</string>
 	<string name="notification_top_week_talks">Son haftadaki en iyi sohbetler</string>
@@ -251,7 +255,7 @@
 	<string name="permission_storage">Resimleri medya kütüphanenize kaydetmek amacıyla DEPOLAMA iznine ihtiyacımız vardır.</string>
 	<string name="post_app_progress">Uygulama paylaşılıyor…</string>
 	<string name="post_comment_hint">Bir yorum bırak…</string>
-	<string name="post_talk_progress">Sohbet başlatılıyor...</string>
+	<string name="post_talk_progress">Sohbet başlatılıyor…</string>
 	<string name="posted">Yayınlanma zamanı: %s</string>
 	<string name="previous">Önceki</string>
 	<string name="provider_installs">Uygulama Yüklemeleri</string>
@@ -327,6 +331,7 @@
 	<string name="top_hunters_help">Son 100 gün içinde bu kullanıcılar en iyi içerikleri paylaştılar. Onlara teşekkür ederiz.</string>
 	<string name="tutorial_avoid_spam">Ops… Görünüşe göre AppHunt\'da yenisin. Hesabın uygulama paylaşabilmek için en az 1 haftadan eski olmalıdır. \n\nBunu spam hesapları önlemek ve içerik kalitesini korumak için yapıyoruz. \n\nSabrın için şimdiden teşekkürler!</string>
 	<string name="uninstalls">%s kaldırma</string>
+	<string name="update_talk_title">Yeni başlık: %s</string>
 	<string name="user_apps_shared">Paylaşılan Uygulamalar</string>
 	<string name="user_apps_voted">Oylanan Uygulamalar</string>
 	<string name="user_authentication_required">Bu eylemi gerçekleştirmek için kimliği doğrulanmış bir kullanıcı olmalısınız. Ayrıca, giriş yapmak için uygulama izinlerinden KİŞİLER iznini aktif etmelisiniz.</string>
@@ -361,10 +366,4 @@
 	<string name="warning_apk_url">APK indirmek ve yüklemek cihazınıza zarar verebilir. Bu kendi sorumluluğunuz altındadır.</string>
 
 	<!-- strings to translate -->
-
-	<string name="error_link_malformed">Bağlantı geçerli değil</string>
-	<string name="error_share_talk_api_forbidden">Şu anda bir sohbet başlatamazsınız.</string>
-	<string name="error_start_talk_too_many_talks_stated">Yakın zamanda çok fazla sohbet başlattınız. Lütfen %s içinde tekrar deneyin.</string>
-	<string name="notification_talk_started_by">başlatan <b>%s</b></string>
-	<string name="update_talk_title">Yeni başlık: %s</string>
 </resources>
