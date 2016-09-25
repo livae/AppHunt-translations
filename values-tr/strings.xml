@@ -347,7 +347,6 @@
 	<string name="user_button_voted_talks">%d Oylanan Sohbet</string>
 	<string name="user_comments_upvotes">Yorumlarda %s oy</string>
 	<string name="user_data_updated">Kullanıcı bilgileriniz güncellendi</string>
-	<string name="user_deleted"/>
 	<string name="user_flagged">Kullanıcı bildirildi</string>
 	<plurals name="user_followers">
 		<item quantity="one">1 Takipçi</item>
