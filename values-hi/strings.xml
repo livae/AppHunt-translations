@@ -32,7 +32,6 @@
 	<string name="anonymous">गया है</string>
 	<string name="app_cannot_be_installed_yet">एप्लिकेशन उपलब्ध नहीं स्थापित करने के लिए अभी तक।</string>
 	<string name="app_flagged">आवेदन प्रविष्टि झंडी दिखाकर रवाना किया</string>
-	<string name="app_name">अनुवाद="झूठे" AppHunt</string>
 	<string name="apps">क्षुधा</string>
 	<string name="apps_frontpage">क्षुधा</string>
 	<string name="apps_top">टॉप क्षुधा</string>
@@ -40,7 +39,6 @@
 	<string name="beta_version">बीटा संस्करण</string>
 	<string name="bookmark_added">में जोड़ा बुकमार्क।</string>
 	<string name="bookmark_removed">से हटा दिया बुकमार्क।</string>
-	<string name="bookmark">बुकमार्क</string>
 	<string name="button_get_apk">डाउनलोड करें</string>
 	<string name="button_get_app">प्ले स्टोर</string>
 	<string name="button_more_info">अधिक जानकारी</string>
@@ -273,7 +271,7 @@
 	<string name="relationship_founder_letter">f</string>
 	<string name="relationship_maker_letter">D</string>
 	<string name="remove_ads">विज्ञापन निकालें</string>
-	<string name="rely">जबाब</string>
+	<string name="reply">जबाब</string>
 	<string name="save">सहेजें</string>
 	<string name="saving_user_info">को अद्यतन करने उपयोगकर्ता जानकारी …</string>
 	<string name="search_hint_apps">खोजें में क्षुधा</string>
@@ -344,19 +342,19 @@
 	<string name="user_apps_voted">क्षुधा मतदान</string>
 	<string name="user_authentication_required">आप के लिए एक प्रमाणीकृत उपयोगकर्ता प्रदर्शन करने के लिए इस कार्रवाई।</string>
 	<plurals name="user_button_comments">
-	<item quantity="zero">0 टिप्पणियाँ</item>
-	<item quantity="one">1 टिप्पणी</item>
-	<item quantity="other">%d टिप्पणियाँ</item>
+		<item quantity="zero">0 टिप्पणियाँ</item>
+		<item quantity="one">1 टिप्पणी</item>
+		<item quantity="other">%d टिप्पणियाँ</item>
 	</plurals>
 	<plurals name="user_button_shared">
-	<item quantity="zero">0 साझा</item>
-	<item quantity="one">1 साझा</item>
-	<item quantity="other">%d साझा</item>
+		<item quantity="zero">0 साझा</item>
+		<item quantity="one">1 साझा</item>
+		<item quantity="other">%d साझा</item>
 	</plurals>
 	<plurals name="user_button_started">
-	<item quantity="zero">0 शुरू कर दिया</item>
-	<item quantity="one">1 शुरू कर दिया</item>
-	<item quantity="other">%d शुरू कर दिया</item>
+		<item quantity="zero">0 शुरू कर दिया</item>
+		<item quantity="one">1 शुरू कर दिया</item>
+		<item quantity="other">%d शुरू कर दिया</item>
 	</plurals>
 	<string name="user_button_voted_apps">%d upvoted क्षुधा</string>
 	<string name="user_button_voted_talks">%d upvoted बात करती है</string>
