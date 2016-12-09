@@ -13,15 +13,17 @@
     - `@string/xxxx` are references of other translations, remove those lines.
     - `...` is one character and not 3 dots, copy paste it from other places.
     - Do not add extra spaces at the end of the beginning of the translation.
-4. Send me the file by email: apphunt@livae.com
+4. (Optional) You can translate the PlayStore description, these are the files named shortdescription_80chars (maximum 80 characters) and fulldescription
+5. Send me the file by email: apphunt@livae.com
 
 ## For developers
 
 1. Read first: [How resources files works in android](https://developer.android.com/guide/topics/resources/string-resource.html)
 2. Edit the xml files to add the missing resources (use Android studio to simplify it, otherwise they are listed at the end of the file)
 3. (Optional step) Sort the xml file, you can use the xslt template `sort.xls`. In linux you can use `xsltproc`.
-4. Edit this file to add your name in the collaborators if you want to appear in the PlayStore description.
-5. Make a pull requests with the changes
+4. (Optional) You can translate the PlayStore description, these are the files named shortdescription_80chars (maximum 80 characters) and fulldescription
+5. Edit this file to add your name in the collaborators if you want to appear in the PlayStore description.
+6. Make a pull requests with the changes
 
 # Collaborators
 
@@ -30,3 +32,4 @@
 - Turkish:  [Kutsan Kaplan](https://github.com/Kutsan)
 - German: Philipp Dormann
 - Hindi: Pratyush Jar
+- Dutch: Ben Hendrickx

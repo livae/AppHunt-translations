@@ -376,4 +376,42 @@
 	<string name="voters">मतदाताओं</string>
 	<string name="warning">चेतावनी</string>
 	<string name="warning_apk_url">डाउनलोड और स्थापित एक apk नुकसान नहीं पहुँचा सकता अपने मोबाइल। ऐसा के तहत अपनी खुद की जिम्मेदारी है।</string>
+
+
+	<!-- NEEDS TRANSLATION -->
+
+	<string name="adblocker_detected">Adblocker Detected</string>
+	<string name="bookmarks">\?</string>
+	<string name="change_my_image">Change my image</string>
+	<string name="adblocker_detected_message">Ads don\'t show in you device. If you are not using an adblocker contact us to solve your issue: apphunt@livae.com If you are using an adblocker you can white list AppHunt or pay to remove the ads in the settings.</string>
+	<string name="d_comments">%d comments</string>
+	<string name="d_installs">%d installs</string>
+	<string name="d_votes">%d votes</string>
+	<string name="developer_of_the_app">Developer of the app</string>
+	<string name="down_vote_talk">Down vote</string>
+	<string name="downvote_comment_d_downvotes">Down vote comment, %d down votes</string>
+	<string name="drag_up_to_open_comments">Drag up to open comments</string>
+	<string name="edit_comment">Edit comment</string>
+	<string name="edit_my_top_apps">Edit my Favourite Apps (use drag and drop)</string>
+	<string name="error_apk_url">The url is not an APK file.</string>
+	<string name="error_cannot_launch_app">Cannot launch the app</string>
+	<string name="error_share_apk_in_playstore">The app is in the PlayStore. The APK cannot be shared.</string>
+	<string name="error_share_app_shared_before">You have already shared this app.</string>
+	<string name="error_upper_case">Use lowercase please</string>
+	<string name="image_of_the_app">Image of the app</string>
+	<string name="image_of_the_talk">Image of the talk</string>
+	<string name="image_of_the_user">Image of the user</string>
+	<string name="mention_user">Mention user</string>
+	<string name="open_drawer_menu">Open drawer menu</string>
+	<string name="share_app">Share App</string>
+	<string name="sponsored_content">Sponsored content</string>
+	<string name="start_sharing_app">Start Sharing App</string>
+	<string name="start_sharing_talk">Start Sharing Talk</string>
+	<string name="text_version">Text version</string>
+	<string name="time_few_hours_ago">%d hours</string>
+	<string name="toggle_vote_d_votes">Toggle Vote, %d votes</string>
+	<string name="top_hunter">Top Hunter</string>
+	<string name="top_hunter_score">Top Hunter Score</string>
+	<string name="up_vote_talk">Up vote</string>
+	<string name="upvote_comment_d_upvotes">Up vote comment, %d up votes</string>
 </resources>
