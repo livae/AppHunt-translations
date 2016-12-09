@@ -28,8 +28,8 @@
 # Collaborators
 
 - English: AppHunt team
-- Spanish: AppHunt team
-- Turkish:  [Kutsan Kaplan](https://github.com/Kutsan)
-- German: Philipp Dormann
-- Hindi: Pratyush Jar
-- Dutch: Ben Hendrickx
+- Spanish (ES): AppHunt team
+- Turkish (TR):  [Kutsan Kaplan](https://github.com/Kutsan)
+- German (DE): Philipp Dormann
+- Hindi (HI): Pratyush Jar
+- Dutch (NL): Ben Hendrickx
