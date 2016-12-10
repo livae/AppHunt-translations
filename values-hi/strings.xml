@@ -268,7 +268,6 @@
 	<string name="provider_installs">एप्लिकेशन को स्थापित करता</string>
 	<string name="purchase_completed">खरीद पूरा</string>
 	<string name="purchases">खरीद</string>
-	<string name="relationship_founder_letter">f</string>
 	<string name="relationship_maker_letter">D</string>
 	<string name="remove_ads">विज्ञापन निकालें</string>
 	<string name="reply">जबाब</string>
@@ -414,4 +413,5 @@
 	<string name="top_hunter_score">Top Hunter Score</string>
 	<string name="up_vote_talk">Up vote</string>
 	<string name="upvote_comment_d_upvotes">Up vote comment, %d up votes</string>
+	<string name="relationship_founder_letter">F</string>
 </resources>
