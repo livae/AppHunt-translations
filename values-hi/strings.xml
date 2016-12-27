@@ -268,7 +268,6 @@
 	<string name="provider_installs">एप्लिकेशन को स्थापित करता</string>
 	<string name="purchase_completed">खरीद पूरा</string>
 	<string name="purchases">खरीद</string>
-	<string name="relationship_founder_letter">f</string>
 	<string name="relationship_maker_letter">D</string>
 	<string name="remove_ads">विज्ञापन निकालें</string>
 	<string name="reply">जबाब</string>
@@ -376,7 +375,7 @@
 	<string name="voters">मतदाताओं</string>
 	<string name="warning">चेतावनी</string>
 	<string name="warning_apk_url">डाउनलोड और स्थापित एक apk नुकसान नहीं पहुँचा सकता अपने मोबाइल। ऐसा के तहत अपनी खुद की जिम्मेदारी है।</string>
-	
+
 	<string name = "adblocker_detected">adblocker का पता चला</string>
 	<string name = "bookmarks">\?</string>
 	<string name = "change_my_image">मेरी छवि को बदलने</string>
