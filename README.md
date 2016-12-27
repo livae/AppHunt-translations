@@ -3,8 +3,9 @@
 ## For non-developers
 
 1. Download the [English file](https://raw.githubusercontent.com/livae/AppHunt-translations/master/values/strings.xml) or the language specific file. The translations are under the directories values-XX where XX is the language code.
-2. Read first: [How resources files works in android](https://developer.android.com/guide/topics/resources/string-resource.html)
-3. More considerations when translating: 
+2. Use a simple editor or copy&paste the content into a new email in Gmail.
+3. Read first: [How resources files works in android](https://developer.android.com/guide/topics/resources/string-resource.html)
+4. More considerations when translating:
     - `<string name="xxxx">TRANSLATE_THIS_PART</string>`
     - Remove lines with this comment: `translatable="false"`
     - `%1$s` and everything that starts with `%` are variables, keep them in the same position as they are.
@@ -13,8 +14,8 @@
     - `@string/xxxx` are references of other translations, remove those lines.
     - `...` is one character and not 3 dots, copy paste it from other places.
     - Do not add extra spaces at the end of the beginning of the translation.
-4. (Optional) You can translate the PlayStore description, these are the files named shortdescription_80chars (maximum 80 characters) and fulldescription
-5. Send me the file by email: apphunt@livae.com
+5. (Optional) You can translate the PlayStore description, these are the files named shortdescription_80chars (maximum 80 characters) and fulldescription
+6. Send me the file by email: apphunt@livae.com
 
 ## For developers
 
@@ -33,3 +34,4 @@
 - German (DE): Philipp Dormann
 - Hindi (HI): Pratyush Jar
 - Dutch (NL): Ben Hendrickx
+- French (FR): Saksham Barsaiyan
