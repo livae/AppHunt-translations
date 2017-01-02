@@ -379,7 +379,7 @@
 	<string name = "adblocker_detected">adblocker का पता चला</string>
 	<string name = "bookmarks">\?</string>
 	<string name = "change_my_image">मेरी छवि को बदलने</string>
-	<string name = "adblocker_detected_message">आप डिवाइस में विज्ञापन डॉन \ 't शो। आप एक adblocker का उपयोग नहीं कर रहे हैं, तो हमसे संपर्क करें आपकी समस्या का समाधान करने के लिए:। apphunt@livae.com आप एक adblocker आप सफेद सूची AppHunt कर सकते हैं का उपयोग कर रहे हैं, या सेटिंग में विज्ञापन को हटाने के लिए भुगतान</string>
+	<string name = "adblocker_detected_message">आप डिवाइस में विज्ञापन डॉन \'t शो। आप एक adblocker का उपयोग नहीं कर रहे हैं, तो हमसे संपर्क करें आपकी समस्या का समाधान करने के लिए:। apphunt@livae.com आप एक adblocker आप सफेद सूची AppHunt कर सकते हैं का उपयोग कर रहे हैं, या सेटिंग में विज्ञापन को हटाने के लिए भुगतान</string>
 	<string name = "d_comments">%d टिप्पणी</string>
 	<string name = "d_installs">%d स्थापनाएं</string>
 	<string name = "d_votes">%d वोट</string>
